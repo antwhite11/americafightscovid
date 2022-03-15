@@ -1,0 +1,236 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,400&display=swap');
+
+
+
+.bgpic{
+
+position: relative ;
+text-align: center;
+
+
+}
+
+
+
+
+.picsize{
+
+
+height: 640px;
+width: auto;
+
+
+
+
+
+}
+
+
+.ontop{
+
+position:absolute;
+overflow-x: hidden;
+
+
+
+}
+
+.btncolor{
+
+background-color: orange;
+
+}
+
+
+.insidecard{
+
+    position: relative;
+    height: 300px;
+    width: 490px;
+    background-color: aliceblue;
+    margin-left: 10px;
+    margin-top: 200px;
+    opacity: .6;
+    overflow-x: hidden;
+
+
+
+
+}
+
+
+
+.insidetext{
+
+position: absolute;
+
+margin-top: -290px;
+margin-left: -15px;
+
+width: 490px;
+color: rgb(0, 0, 80);
+
+
+
+
+}
+
+.safedrive {
+
+
+
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+
+
+
+.smalltext{
+
+
+font-size: 15px;
+font-family: 'Roboto', sans-serif ;
+margin-left: 78px;
+margin-top: 20px;
+padding-right: 80px;
+
+
+
+}
+
+.linkname{
+
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif ;
+    margin-left: 78px;
+    margin-top: 20px;
+    padding-right: 80px;
+
+
+
+
+
+}
+
+
+@media screen and (max-width: 1280px) {
+    
+    .ontop{
+
+
+        margin-right: 15px;
+
+
+    }
+
+
+
+
+
+}
+
+@media screen and (max-width: 1024px) {
+    
+    .picsize{
+
+
+        height: 475px;
+        width: auto;
+        
+        
+        
+        
+        
+        }
+
+
+        .insidecard{
+
+            position: relative;
+            height: 250px;
+            width: 440px;
+            background-color: aliceblue;
+            margin-left: 10px;
+            margin-top: 170px;
+            opacity: .6;
+            overflow-x: hidden;
+        
+        
+        
+        
+
+
+
+}
+
+
+.safedrive {
+
+
+
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 40px;
+    padding-right: 100px;
+    
+
+
+}
+
+
+
+.smalltext{
+
+
+font-size: 15px;
+font-family: 'Roboto', sans-serif ;
+margin-left: 78px;
+margin-top: 20px;
+padding-right: 80px;
+
+
+
+}
+
+
+.insidetext{
+
+    
+    
+    margin-top: -240px;
+    margin-left: -15px;
+    
+   
+    
+    
+    
+    
+    }
+
+
+    .btncolor{
+
+       font-size: 10px;
+       
+        
+        }
+
+
+        .linkname{
+
+
+            margin-top: 7px;
+
+        }
+
+
+
+
+
+
+
+}

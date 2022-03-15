@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,400&display=swap');
+
+
+
+
+
+.abouttitle{
+
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: rgb(0, 0, 80);
+    font-size: 75px;
+    margin-left: 20px;
+    letter-spacing: 2px;
+
+
+
+
+
+
+}
+
+
+
+.whoarewe{
+
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: rgb(0, 0, 80);
+    font-size: 35px;
+    font-style: italic;
+
+
+
+
+
+
+}
+
+
+.leftmarg{
+
+
+margin-left: 178px;
+margin-top: 145px;
+
+
+
+}
+
+
+.whoweare{
+
+
+margin-top: 25px;
+line-height: 28px ;
+
+
+
+}
+
+.picdiv{
+
+
+margin-left: 35px;
+
+
+}
+
+
+.picedit{
+
+
+height: 600px;
+width: auto;
+
+
+
+}

@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,400&display=swap');
+
+
+
+
+
+.margl2{
+
+margin-left: 60px;
+
+
+}
+
+
+.formheader{
+
+
+    margin-top: 220px;
+    font-size: 50px;
+    
+
+    color: orange;
+    font-family: 'Roboto', sans-serif;
+    
+
+
+
+
+
+}
+
+.labeltext {
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.inputsize {
+
+width: 80%;
+
+
+}
+
+
+
+.formmargin{
+
+margin-top: 80px;
+margin-left: 30px;
+background-color: navy;
+color: white;
+border: solid 1px orange;
+
+}
+
+.headermarginl{
+
+margin-left: 10px;
+
+
+}
+
+
+.formrealmarg{
+
+margin-left: 28px;
+margin-top: 20px;
+margin-bottom: 20px;
+
+
+
+}
+
+
+
+
+
+
+
+
+.formlength{
+
+width: 140px;
+
+
+
+}

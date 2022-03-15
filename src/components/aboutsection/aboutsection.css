@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,400&display=swap');
+
+
+.abs{
+
+position: relative;
+margin-top: 320px;
+margin-left: 55px;
+
+
+}
+
+.columnmarg {
+
+margin-top: 140px;
+border: solid 2px whitesmoke;
+background-color: whitesmoke;
+border-radius: 25px;
+
+
+width: 300ppx;
+
+
+
+
+
+
+
+}
+
+.abouttext{
+
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 45px;
+    font-weight: bold;
+    margin-left: 0px;
+    color: rgb(0, 0, 80);
+
+
+
+    
+}
+
+
+
+
+
+
+.aboutdescription{
+
+
+    font-size: 13px;
+
+    
+    padding-right: 120px;
+    margin-top: 40px;
+    line-height: 23px;
+    color: rgb(0, 0, 80);
+    
+    
+
+
+}
+
+
+.dabutton{
+
+color: rgb(0, 0, 80)
+
+
+
+}
+
+
+.photo{
+
+
+margin-top: 140px;
+
+
+
+}
+
+.imagesize{
+
+height: 320px;
+width: 430px
+
+
+}
+
+.insidemarg{
+
+margin-left: 20px;
+
+
+}
+
+
+@media screen and (max-width: 1280px) {
+    
+    .imagesize{
+
+        height: 250px;
+        width: 375px
+        
+       
+
+
+    }
+
+  
+.columnmarg {
+
+    margin-top: 102px;
+    border: solid 2px whitesmoke;
+    background-color: whitesmoke;
+    border-radius: 25px;
+    
+    
+    width: 300ppx;
+    
+    
+    
+    
+    
+    
+    
+    }
+
+
+
+    .abs{
+
+        position: relative;
+        margin-top: 380px;
+        margin-left: 68px;
+        
+        
+        }
+
+}

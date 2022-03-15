@@ -1,0 +1,81 @@
+.botlogosize{
+
+height: 200px;
+width: auto;
+margin-bottom: 100px;
+
+
+
+}
+
+
+.overallmarg{
+
+
+margin-right: 20px;
+
+
+
+
+}
+
+.footerheader {
+
+font-size: 20px;
+font-weight: 100;
+margin-top: 40px;
+text-align: left;
+
+
+
+}
+
+.footercontact{
+
+text-align: left;
+font-size: small;
+
+
+
+
+}
+
+
+.footerbutton{
+
+margin-top: 78px;
+
+}
+
+.copyright{
+
+text-align: left;
+margin-top: 85px;
+font-size: 10px;
+margin-left: 55px;
+
+
+}
+
+.copyrightfont{
+
+margin-left: 59px;
+
+
+}
+
+.buttoncol{
+
+
+margin-left: 88px;
+
+}
+
+
+.contactmarg{
+
+    margin-left: 165px;
+    margin-top: 9px;
+
+
+}
