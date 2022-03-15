@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6b1ea36.css",
+    "main.js": "/static/js/main.217b5c06.js",
+    "static/js/787.45833b32.chunk.js": "/static/js/787.45833b32.chunk.js",
+    "static/media/coronavirus-5739918.jpg": "/static/media/coronavirus-5739918.2d1ef5b26c972ac89b4e.jpg",
+    "static/media/macisiteimg.jpeg": "/static/media/macisiteimg.27dc20eb22c987afc081.jpeg",
+    "static/media/perfect.jpeg": "/static/media/perfect.feeaee1b32e794bc19f0.jpeg",
+    "static/media/3.png": "/static/media/3.7ef9414775e692b97f4e.png",
+    "static/media/fixedlogo.png": "/static/media/fixedlogo.26922e4c4c96ca73efb7.png",
+    "index.html": "/index.html",
+    "main.e6b1ea36.css.map": "/static/css/main.e6b1ea36.css.map",
+    "main.217b5c06.js.map": "/static/js/main.217b5c06.js.map",
+    "787.45833b32.chunk.js.map": "/static/js/787.45833b32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6b1ea36.css",
+    "static/js/main.217b5c06.js"
+  ]
+}
